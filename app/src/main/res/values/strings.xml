@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WaveHQ</string>
+    <string name="data_network_error">Data Network Error</string>
+    <string name="toggle_list_view">Toggle List View</string>
+    <string name="wave_logo">Wave Logo</string>
+    <string name="data_error">Data Error</string>
+    <string name="no_connection">No Connection</string>
+    <string name="dollar">US$%1$d</string>
+</resources>

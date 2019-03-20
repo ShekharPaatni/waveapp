@@ -1,0 +1,32 @@
+ext {
+    minSdk = 21
+    targetSdk = 28
+
+    versionCode = 1
+    versionName = "1.0"
+
+    // AndroidX Libraries
+    appCompat = "1.0.0"
+    recyclerView = "1.0.0"
+    cardView = "1.0.0"
+    constraintLayout = "2.0.0-alpha3"
+
+    // Butter Knife
+    butterknife = "10.1.0"
+
+    // Navigation
+    navigation = "2.0.0"
+
+    // Groupie
+    groupie = "2.3.0"
+
+    // RxJava
+    rxVersion = "2.2.7"
+    rxAndroidVersion = "2.1.1"
+
+    // Retrofit
+    retrofit = "2.5.0"
+
+    // Dagger2
+    dagger = "2.21"
+}
