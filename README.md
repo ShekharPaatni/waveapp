@@ -15,7 +15,7 @@
 * Navigation
 * Connectivity Listener
 
-In just 3 hours I managed to implement a performance implementation of MVP Architecture (Clean Architecture) using Dependency Injection, RxJava2 (Reactive Programming), checking connectivity in real time and delivering a modern and clean UI taking special care in every small detail.
+In just 3 hours I managed to deliver a performance implementation of MVP Architecture (Clean Architecture) using Dependency Injection, RxJava2 (Reactive Programming), checking connectivity in real time and delivering a modern and clean UI taking special care in every small detail.
 
 # Wave Software Development Challenge
 Applicants for the [Mobile engineer](https://wave.bamboohr.co.uk/jobs/view.php?id=6) role at Wave must complete the following challenge, and submit a solution prior to the onsite interview. 
