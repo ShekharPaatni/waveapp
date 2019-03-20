@@ -1,3 +1,7 @@
+# WaveHQ by Mariano Zorrilla
+
+[![WaveHQ Android](https://i.imgur.com/D3AV1tu.png)](https://www.graphberry.com/item/free-google-pixel-psd-mockup "Joke Generator APK")
+
 # Wave Software Development Challenge
 Applicants for the [Mobile engineer](https://wave.bamboohr.co.uk/jobs/view.php?id=6) role at Wave must complete the following challenge, and submit a solution prior to the onsite interview. 
 
