@@ -1,6 +1,6 @@
 # WaveHQ by Mariano Zorrilla
 
-[![WaveHQ Android](https://i.imgur.com/D3AV1tu.png)](https://www.graphberry.com/item/free-google-pixel-psd-mockup "Joke Generator APK")
+[![WaveHQ Android](https://i.imgur.com/D3AV1tu.png)](https://www.graphberry.com/item/free-google-pixel-psd-mockup "WaveHQ by Mariano Zorrilla")
 
 # Implementations and Milestones
 
