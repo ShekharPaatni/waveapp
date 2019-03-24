@@ -19,6 +19,13 @@ In just 3 hours I managed to deliver a performance implementation of MVP Archite
 
 It always so much fun trying new things and even under presure. Loved the challenge!
 
+# Setup to run:
+
+* Clone repo
+* Open Project on Android Studio 3.3.+
+* Run app after sync process is done
+* Open on Emulator/Device Android API 21+
+
 # Wave Software Development Challenge
 Applicants for the [Mobile engineer](https://wave.bamboohr.co.uk/jobs/view.php?id=6) role at Wave must complete the following challenge, and submit a solution prior to the onsite interview. 
 
